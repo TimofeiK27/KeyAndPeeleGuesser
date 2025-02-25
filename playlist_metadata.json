@@ -1,0 +1,932 @@
+[
+  {
+    "original_title": "Black People Telepathy - Key & Peele",
+    "cleaned_title": "Black People Telepathy",
+    "file_path": "audio_downloads/Black People Telepathy - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=jzVo2mCQIAk"
+  },
+  {
+    "original_title": "Non-Scary Movie - Key & Peele",
+    "cleaned_title": "NonScary Movie",
+    "file_path": "audio_downloads/Non-Scary Movie - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=PtDOZ7pggBw"
+  },
+  {
+    "original_title": "Key & Peele - Black Ice",
+    "cleaned_title": "Black Ice",
+    "file_path": "audio_downloads/Key & Peele - Black Ice.mp3",
+    "video_url": "https://www.youtube.com/watch?v=efiW2K8gASM"
+  },
+  {
+    "original_title": "Key & Peele - Auction Block",
+    "cleaned_title": "Auction Block",
+    "file_path": "audio_downloads/Key & Peele - Auction Block.mp3",
+    "video_url": "https://www.youtube.com/watch?v=zB7MichlL1k"
+  },
+  {
+    "original_title": "Key & Peele - Das Negros",
+    "cleaned_title": "Das Negros",
+    "file_path": "audio_downloads/Key & Peele - Das Negros.mp3",
+    "video_url": "https://www.youtube.com/watch?v=m1bLXk6UVts"
+  },
+  {
+    "original_title": "Key & Peele - Undercover Boss",
+    "cleaned_title": "Undercover Boss",
+    "file_path": "audio_downloads/Key & Peele - Undercover Boss.mp3",
+    "video_url": "https://www.youtube.com/watch?v=UHyoDV1fsA4"
+  },
+  {
+    "original_title": "Key & Peele - Pizza Order",
+    "cleaned_title": "Pizza Order",
+    "file_path": "audio_downloads/Key & Peele - Pizza Order.mp3",
+    "video_url": "https://www.youtube.com/watch?v=fcbj8BBsWSA"
+  },
+  {
+    "original_title": "Key & Peele - Alien Imposters",
+    "cleaned_title": "Alien Imposters",
+    "file_path": "audio_downloads/Key & Peele - Alien Imposters.mp3",
+    "video_url": "https://www.youtube.com/watch?v=DWO1pkHgrBM"
+  },
+  {
+    "original_title": "Key & Peele - Playing a Thug (ft. Colin Hanks) - Uncensored",
+    "cleaned_title": "Playing a Thug (ft. Colin Hanks)",
+    "file_path": "audio_downloads/Key & Peele - Playing a Thug (ft. Colin Hanks) - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=LiwU5jPMnFw"
+  },
+  {
+    "original_title": "Key & Peele - Sex Detective - Uncensored",
+    "cleaned_title": "Sex Detective",
+    "file_path": "audio_downloads/Key & Peele - Sex Detective - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=YJAGNad7FLI"
+  },
+  {
+    "original_title": "Key & Peele -  Sex with Black Guys (ft. Natasha Leggero)",
+    "cleaned_title": "Sex with Black Guys (ft. Natasha Leggero)",
+    "file_path": "audio_downloads/Key & Peele -  Sex with Black Guys (ft. Natasha Leggero).mp3",
+    "video_url": "https://www.youtube.com/watch?v=-iz_mVgEzqg"
+  },
+  {
+    "original_title": "Key & Peele - Magical Negro Fight",
+    "cleaned_title": "Magical Negro Fight",
+    "file_path": "audio_downloads/Key & Peele - Magical Negro Fight.mp3",
+    "video_url": "https://www.youtube.com/watch?v=WJfhB3Vj_G8"
+  },
+  {
+    "original_title": "Key & Peele - Make-A-Wish",
+    "cleaned_title": "MakeAWish",
+    "file_path": "audio_downloads/Key & Peele - Make-A-Wish.mp3",
+    "video_url": "https://www.youtube.com/watch?v=C5uyq0aMRw0"
+  },
+  {
+    "original_title": "Key & Peele - Turbulence - Uncensored",
+    "cleaned_title": "Turbulence",
+    "file_path": "audio_downloads/Key & Peele - Turbulence - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=kH6QJzmLYtw"
+  },
+  {
+    "original_title": "Key & Peele - Pawn Shop",
+    "cleaned_title": "Pawn Shop",
+    "file_path": "audio_downloads/Key & Peele - Pawn Shop.mp3",
+    "video_url": "https://www.youtube.com/watch?v=WqBZVlgORbY"
+  },
+  {
+    "original_title": "Key & Peele - School Bully",
+    "cleaned_title": "School Bully",
+    "file_path": "audio_downloads/Key & Peele - School Bully.mp3",
+    "video_url": "https://www.youtube.com/watch?v=CUvFeyGxaaU"
+  },
+  {
+    "original_title": "Key & Peele - Insult Comic",
+    "cleaned_title": "Insult Comic",
+    "file_path": "audio_downloads/Key & Peele - Insult Comic.mp3",
+    "video_url": "https://www.youtube.com/watch?v=RlTbJZ64sVM"
+  },
+  {
+    "original_title": "Key & Peele - Mattress Shopping - Uncensored",
+    "cleaned_title": "Mattress Shopping",
+    "file_path": "audio_downloads/Key & Peele - Mattress Shopping - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Nl_eJ-zdLrA"
+  },
+  {
+    "original_title": "Key & Peele - Post-Apocalyptic Hunt",
+    "cleaned_title": "PostApocalyptic Hunt",
+    "file_path": "audio_downloads/Key & Peele - Post-Apocalyptic Hunt.mp3",
+    "video_url": "https://www.youtube.com/watch?v=wVX8wm_CONM"
+  },
+  {
+    "original_title": "Key & Peele - White Zombies",
+    "cleaned_title": "White Zombies",
+    "file_path": "audio_downloads/Key & Peele - White Zombies.mp3",
+    "video_url": "https://www.youtube.com/watch?v=4xyhVO-SWfM"
+  },
+  {
+    "original_title": "Key & Peele - Hall of Mirrors - Uncensored",
+    "cleaned_title": "Hall of Mirrors",
+    "file_path": "audio_downloads/Key & Peele - Hall of Mirrors - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=TCw-iEJoVfY"
+  },
+  {
+    "original_title": "Key & Peele - Killing an African Warlord",
+    "cleaned_title": "Killing an African Warlord",
+    "file_path": "audio_downloads/Key & Peele - Killing an African Warlord.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ijdcL6FrQ6Y"
+  },
+  {
+    "original_title": "Key & Peele - Loco Gangsters - Uncensored",
+    "cleaned_title": "Loco Gangsters",
+    "file_path": "audio_downloads/Key & Peele - Loco Gangsters - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=XDzpzYzp9HE"
+  },
+  {
+    "original_title": "Key & Peele - High On Potenuse (ft. Gabriel Iglesias)",
+    "cleaned_title": "High On Potenuse (ft. Gabriel Iglesias)",
+    "file_path": "audio_downloads/Key & Peele - High On Potenuse (ft. Gabriel Iglesias).mp3",
+    "video_url": "https://www.youtube.com/watch?v=k1tsGGz-Qw0"
+  },
+  {
+    "original_title": "Key & Peele - Strike Force Eagle 3: The Reckoning - Uncensored",
+    "cleaned_title": "Strike Force Eagle 3: The Reckoning",
+    "file_path": "audio_downloads/Key & Peele - Strike Force Eagle 3: The Reckoning - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=3-jv7doUI8o"
+  },
+  {
+    "original_title": "Key & Peele - Lightning in a Bottle - Uncensored",
+    "cleaned_title": "Lightning in a Bottle",
+    "file_path": "audio_downloads/Key & Peele - Lightning in a Bottle - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=-93Ij5WIcok"
+  },
+  {
+    "original_title": "Key & Peele - Karim and Jahar",
+    "cleaned_title": "Karim and Jahar",
+    "file_path": "audio_downloads/Key & Peele - Karim and Jahar.mp3",
+    "video_url": "https://www.youtube.com/watch?v=IkTZ8BVAlFE"
+  },
+  {
+    "original_title": "Key & Peele - Severed Head Warriors",
+    "cleaned_title": "Severed Head Warriors",
+    "file_path": "audio_downloads/Key & Peele - Severed Head Warriors.mp3",
+    "video_url": "https://www.youtube.com/watch?v=rqYdxXfBKeY"
+  },
+  {
+    "original_title": "Key & Peele - Little Homie - Uncensored",
+    "cleaned_title": "Little Homie",
+    "file_path": "audio_downloads/Key & Peele - Little Homie - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=pSDTmJtE-Bc"
+  },
+  {
+    "original_title": "Key & Peele - Damn, Check That S**t Out",
+    "cleaned_title": "Damn, Check That S**t Out",
+    "file_path": "audio_downloads/Key & Peele - Damn, Check That S**t Out.mp3",
+    "video_url": "https://www.youtube.com/watch?v=4SUoi_9asBU"
+  },
+  {
+    "original_title": "Key & Peele - Continental Breakfast",
+    "cleaned_title": "Continental Breakfast",
+    "file_path": "audio_downloads/Key & Peele - Continental Breakfast.mp3",
+    "video_url": "https://www.youtube.com/watch?v=st21dIMaGMs"
+  },
+  {
+    "original_title": "Key & Peele - Retired Military Specialist",
+    "cleaned_title": "Retired Military Specialist",
+    "file_path": "audio_downloads/Key & Peele - Retired Military Specialist.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Ezg4sr67OGA"
+  },
+  {
+    "original_title": "Key & Peele - Ultimate C**k Blocker",
+    "cleaned_title": "Ultimate C**k Blocker",
+    "file_path": "audio_downloads/Key & Peele - Ultimate C**k Blocker.mp3",
+    "video_url": "https://www.youtube.com/watch?v=YrpoK7Askck"
+  },
+  {
+    "original_title": "Key & Peele - Mafia Hit",
+    "cleaned_title": "Mafia Hit",
+    "file_path": "audio_downloads/Key & Peele - Mafia Hit.mp3",
+    "video_url": "https://www.youtube.com/watch?v=E63rYIQmlTI"
+  },
+  {
+    "original_title": "Key & Peele - Yo' Mama Has Health Problems",
+    "cleaned_title": "Yo' Mama Has Health Problems",
+    "file_path": "audio_downloads/Key & Peele - Yo' Mama Has Health Problems.mp3",
+    "video_url": "https://www.youtube.com/watch?v=KzelrlH_pjQ"
+  },
+  {
+    "original_title": "Key & Peele - Manly Tears",
+    "cleaned_title": "Manly Tears",
+    "file_path": "audio_downloads/Key & Peele - Manly Tears.mp3",
+    "video_url": "https://www.youtube.com/watch?v=YZPC0j-f2tU"
+  },
+  {
+    "original_title": "Key & Peele - Slap-Ass: In Recovery - Uncensored",
+    "cleaned_title": "SlapAss: In Recovery",
+    "file_path": "audio_downloads/Key & Peele - Slap-Ass: In Recovery - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=AQM2joP4fsQ"
+  },
+  {
+    "original_title": "Key & Peele - Zombie Attack",
+    "cleaned_title": "Zombie Attack",
+    "file_path": "audio_downloads/Key & Peele - Zombie Attack.mp3",
+    "video_url": "https://www.youtube.com/watch?v=y_qZggrYHRQ"
+  },
+  {
+    "original_title": "Key & Peele - Sexy Vampires",
+    "cleaned_title": "Sexy Vampires",
+    "file_path": "audio_downloads/Key & Peele - Sexy Vampires.mp3",
+    "video_url": "https://www.youtube.com/watch?v=iXpxnxAL62A"
+  },
+  {
+    "original_title": "Key & Peele - Gangsta Standoff",
+    "cleaned_title": "Gangsta Standoff",
+    "file_path": "audio_downloads/Key & Peele - Gangsta Standoff.mp3",
+    "video_url": "https://www.youtube.com/watch?v=leL_bsHEZdM"
+  },
+  {
+    "original_title": "Key & Peele - Baby Forest",
+    "cleaned_title": "Baby Forest",
+    "file_path": "audio_downloads/Key & Peele - Baby Forest.mp3",
+    "video_url": "https://www.youtube.com/watch?v=SxwMTAy1gP0"
+  },
+  {
+    "original_title": "Key & Peele - McFerrin vs. Winslow",
+    "cleaned_title": "McFerrin vs. Winslow",
+    "file_path": "audio_downloads/Key & Peele - McFerrin vs. Winslow.mp3",
+    "video_url": "https://www.youtube.com/watch?v=yFfia3Zs3lE"
+  },
+  {
+    "original_title": "Key & Peele - Negrotown - Uncensored",
+    "cleaned_title": "Negrotown",
+    "file_path": "audio_downloads/Key & Peele - Negrotown - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Rg58d8opQKA"
+  },
+  {
+    "original_title": "Key & Peele - Puppy Dog Ice-T",
+    "cleaned_title": "Puppy Dog IceT",
+    "file_path": "audio_downloads/Key & Peele - Puppy Dog Ice-T.mp3",
+    "video_url": "https://www.youtube.com/watch?v=WV2xY7ixwro"
+  },
+  {
+    "original_title": "Key & Peele - MC Mom - Uncensored",
+    "cleaned_title": "MC Mom",
+    "file_path": "audio_downloads/Key & Peele - MC Mom - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=jxsD6ecxDUg"
+  },
+  {
+    "original_title": "Key & Peele - Obama Meet & Greet",
+    "cleaned_title": "Obama Meet & Greet",
+    "file_path": "audio_downloads/Key & Peele - Obama Meet & Greet.mp3",
+    "video_url": "https://www.youtube.com/watch?v=nopWOC4SRm4"
+  },
+  {
+    "original_title": "Key & Peele - A Cappella - Uncensored",
+    "cleaned_title": "A Cappella",
+    "file_path": "audio_downloads/Key & Peele - A Cappella - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=2EtalOOS-eM"
+  },
+  {
+    "original_title": "Key & Peele - Stan Lee's Superhero Pitch",
+    "cleaned_title": "Stan Lee's Superhero Pitch",
+    "file_path": "audio_downloads/Key & Peele - Stan Lee's Superhero Pitch.mp3",
+    "video_url": "https://www.youtube.com/watch?v=j9Uh_RucKz8"
+  },
+  {
+    "original_title": "Key & Peele - Soul Food",
+    "cleaned_title": "Soul Food",
+    "file_path": "audio_downloads/Key & Peele - Soul Food.mp3",
+    "video_url": "https://www.youtube.com/watch?v=3zDHSLDY0Q8"
+  },
+  {
+    "original_title": "Key & Peele - Job Interview (ft. Adam Pally)",
+    "cleaned_title": "Job Interview (ft. Adam Pally)",
+    "file_path": "audio_downloads/Key & Peele - Job Interview (ft. Adam Pally).mp3",
+    "video_url": "https://www.youtube.com/watch?v=bWahgmZEx8Y"
+  },
+  {
+    "original_title": "Key & Peele - Snitch - Uncensored",
+    "cleaned_title": "Snitch",
+    "file_path": "audio_downloads/Key & Peele - Snitch - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=IiQHSsq2wzs"
+  },
+  {
+    "original_title": "Key & Peele - The Telemarketer - Uncensored",
+    "cleaned_title": "The Telemarketer",
+    "file_path": "audio_downloads/Key & Peele - The Telemarketer - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=gMrNQbW5Am8"
+  },
+  {
+    "original_title": "Key & Peele - Boxing Press Conference",
+    "cleaned_title": "Boxing Press Conference",
+    "file_path": "audio_downloads/Key & Peele - Boxing Press Conference.mp3",
+    "video_url": "https://www.youtube.com/watch?v=cBQiLh9N6kg"
+  },
+  {
+    "original_title": "Key & Peele - Cat Poster",
+    "cleaned_title": "Cat Poster",
+    "file_path": "audio_downloads/Key & Peele - Cat Poster.mp3",
+    "video_url": "https://www.youtube.com/watch?v=6haBMbtXSLg"
+  },
+  {
+    "original_title": "Key & Peele - Laron Can't Laugh",
+    "cleaned_title": "Laron Can't Laugh",
+    "file_path": "audio_downloads/Key & Peele - Laron Can't Laugh.mp3",
+    "video_url": "https://www.youtube.com/watch?v=PEfZG9OSytA"
+  },
+  {
+    "original_title": "Key & Peele - Flicker",
+    "cleaned_title": "Flicker",
+    "file_path": "audio_downloads/Key & Peele - Flicker.mp3",
+    "video_url": "https://www.youtube.com/watch?v=1t24XAntNCY"
+  },
+  {
+    "original_title": "Key & Peele - Dicknanigans",
+    "cleaned_title": "Dicknanigans",
+    "file_path": "audio_downloads/Key & Peele - Dicknanigans.mp3",
+    "video_url": "https://www.youtube.com/watch?v=xdXo8uJ9NSk"
+  },
+  {
+    "original_title": "Key & Peele - Fraternity Branding",
+    "cleaned_title": "Fraternity Branding",
+    "file_path": "audio_downloads/Key & Peele - Fraternity Branding.mp3",
+    "video_url": "https://www.youtube.com/watch?v=vBzPsY3D58k"
+  },
+  {
+    "original_title": "Key & Peele - Tim Cook Meltdown at iPhone 5 Launch",
+    "cleaned_title": "Tim Cook Meltdown at iPhone 5 Launch",
+    "file_path": "audio_downloads/Key & Peele - Tim Cook Meltdown at iPhone 5 Launch.mp3",
+    "video_url": "https://www.youtube.com/watch?v=mVHFRNU3q_k"
+  },
+  {
+    "original_title": "Key & Peele - Bagels Are for Sales Associates  (ft. Rob Riggle) - Uncensored",
+    "cleaned_title": "Bagels Are for Sales Associates (ft. Rob Riggle)",
+    "file_path": "audio_downloads/Key & Peele - Bagels Are for Sales Associates  (ft. Rob Riggle) - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=aqNR429SuAk"
+  },
+  {
+    "original_title": "Key & Peele - Rap Album Confessions",
+    "cleaned_title": "Rap Album Confessions",
+    "file_path": "audio_downloads/Key & Peele - Rap Album Confessions.mp3",
+    "video_url": "https://www.youtube.com/watch?v=14WE3A0PwVs"
+  },
+  {
+    "original_title": "Key & Peele - Hoodie",
+    "cleaned_title": "Hoodie",
+    "file_path": "audio_downloads/Key & Peele - Hoodie.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ztRSm_SJP58"
+  },
+  {
+    "original_title": "Key & Peele - Obama Shutdown",
+    "cleaned_title": "Obama Shutdown",
+    "file_path": "audio_downloads/Key & Peele - Obama Shutdown.mp3",
+    "video_url": "https://www.youtube.com/watch?v=jDpVg-UEGCI"
+  },
+  {
+    "original_title": "Key & Peele - Awkward Conversation",
+    "cleaned_title": "Awkward Conversation",
+    "file_path": "audio_downloads/Key & Peele - Awkward Conversation.mp3",
+    "video_url": "https://www.youtube.com/watch?v=VKpQgEyjNdM"
+  },
+  {
+    "original_title": "Key & Peele - Gay Marriage Legalized",
+    "cleaned_title": "Gay Marriage Legalized",
+    "file_path": "audio_downloads/Key & Peele - Gay Marriage Legalized.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Jitocz4kB3k"
+  },
+  {
+    "original_title": "Key & Peele - Text Message Confusion - Uncensored",
+    "cleaned_title": "Text Message Confusion",
+    "file_path": "audio_downloads/Key & Peele - Text Message Confusion - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=naleynXS7yo"
+  },
+  {
+    "original_title": "Key & Peele - Office Homophobe",
+    "cleaned_title": "Office Homophobe",
+    "file_path": "audio_downloads/Key & Peele - Office Homophobe.mp3",
+    "video_url": "https://www.youtube.com/watch?v=e3h6es6zh1c"
+  },
+  {
+    "original_title": "Key & Peele - Party Games",
+    "cleaned_title": "Party Games",
+    "file_path": "audio_downloads/Key & Peele - Party Games.mp3",
+    "video_url": "https://www.youtube.com/watch?v=UCW_UH-k-ec"
+  },
+  {
+    "original_title": "Key & Peele - Awesome Hitler Story",
+    "cleaned_title": "Awesome Hitler Story",
+    "file_path": "audio_downloads/Key & Peele - Awesome Hitler Story.mp3",
+    "video_url": "https://www.youtube.com/watch?v=izh-j8KUYjs"
+  },
+  {
+    "original_title": "Key & Peele - Al Qaeda Meeting",
+    "cleaned_title": "Al Qaeda Meeting",
+    "file_path": "audio_downloads/Key & Peele - Al Qaeda Meeting.mp3",
+    "video_url": "https://www.youtube.com/watch?v=IHfiMoJUDVQ"
+  },
+  {
+    "original_title": "Prepared for Terries - Key & Peele",
+    "cleaned_title": "Prepared for Terries",
+    "file_path": "audio_downloads/Prepared for Terries - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=eiWIOKKuyGE"
+  },
+  {
+    "original_title": "Key & Peele - Investigating a Disturbance",
+    "cleaned_title": "Investigating a Disturbance",
+    "file_path": "audio_downloads/Key & Peele - Investigating a Disturbance.mp3",
+    "video_url": "https://www.youtube.com/watch?v=y0DkyQmAUXQ"
+  },
+  {
+    "original_title": "Key & Peele - These Nuts - Uncensored",
+    "cleaned_title": "These Nuts",
+    "file_path": "audio_downloads/Key & Peele - These Nuts - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=mVTmxC_pVqg"
+  },
+  {
+    "original_title": "Key & Peele - Country Music",
+    "cleaned_title": "Country Music",
+    "file_path": "audio_downloads/Key & Peele - Country Music.mp3",
+    "video_url": "https://www.youtube.com/watch?v=jRdkrDk0BQ0"
+  },
+  {
+    "original_title": "Key & Peele - Dueling Hats",
+    "cleaned_title": "Dueling Hats",
+    "file_path": "audio_downloads/Key & Peele - Dueling Hats.mp3",
+    "video_url": "https://www.youtube.com/watch?v=i5ZM0-f5_CU"
+  },
+  {
+    "original_title": "Macedonian Café - Key & Peele",
+    "cleaned_title": "Macedonian Café",
+    "file_path": "audio_downloads/Macedonian Café - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=g1KiFON-GWg"
+  },
+  {
+    "original_title": "Key & Peele - Shady Landlord",
+    "cleaned_title": "Shady Landlord",
+    "file_path": "audio_downloads/Key & Peele - Shady Landlord.mp3",
+    "video_url": "https://www.youtube.com/watch?v=_aa8ylQ7-mQ"
+  },
+  {
+    "original_title": "Key & Peele - McCringleberry's Excessive Celebration",
+    "cleaned_title": "McCringleberry's Excessive Celebration",
+    "file_path": "audio_downloads/Key & Peele - McCringleberry's Excessive Celebration.mp3",
+    "video_url": "https://www.youtube.com/watch?v=RGJb2iLvOKE"
+  },
+  {
+    "original_title": "Key & Peele - Obama - The College Years",
+    "cleaned_title": "Obama The College Years",
+    "file_path": "audio_downloads/Key & Peele - Obama - The College Years.mp3",
+    "video_url": "https://www.youtube.com/watch?v=vlxkcewBEe0"
+  },
+  {
+    "original_title": "Key & Peele - Outkast Reunion - Uncensored",
+    "cleaned_title": "Outkast Reunion",
+    "file_path": "audio_downloads/Key & Peele - Outkast Reunion - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=02cSc5a49LA"
+  },
+  {
+    "original_title": "Key & Peele - Rap Battle Hype Man",
+    "cleaned_title": "Rap Battle Hype Man",
+    "file_path": "audio_downloads/Key & Peele - Rap Battle Hype Man.mp3",
+    "video_url": "https://www.youtube.com/watch?v=JTIPQdlLKTA"
+  },
+  {
+    "original_title": "Key & Peele - Sexting Scandal",
+    "cleaned_title": "Sexting Scandal",
+    "file_path": "audio_downloads/Key & Peele - Sexting Scandal.mp3",
+    "video_url": "https://www.youtube.com/watch?v=GMG_RGsysT4"
+  },
+  {
+    "original_title": "Key & Peele - Les Mis",
+    "cleaned_title": "Les Mis",
+    "file_path": "audio_downloads/Key & Peele - Les Mis.mp3",
+    "video_url": "https://www.youtube.com/watch?v=__d2FMCtgi4"
+  },
+  {
+    "original_title": "Substitute Teacher - Key & Peele",
+    "cleaned_title": "Substitute Teacher",
+    "file_path": "audio_downloads/Substitute Teacher - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Dd7FixvoKBw"
+  },
+  {
+    "original_title": "Key & Peele - You Can Do Anything",
+    "cleaned_title": "You Can Do Anything",
+    "file_path": "audio_downloads/Key & Peele - You Can Do Anything.mp3",
+    "video_url": "https://www.youtube.com/watch?v=nlD9JYP8u5E"
+  },
+  {
+    "original_title": "Key & Peele - East/West College Bowl",
+    "cleaned_title": "East/West College Bowl",
+    "file_path": "audio_downloads/Key & Peele - East/West College Bowl.mp3",
+    "video_url": "https://www.youtube.com/watch?v=gODZzSOelss"
+  },
+  {
+    "original_title": "Key & Peele - Proud Thug",
+    "cleaned_title": "Proud Thug",
+    "file_path": "audio_downloads/Key & Peele - Proud Thug.mp3",
+    "video_url": "https://www.youtube.com/watch?v=GbPeFs7uDLM"
+  },
+  {
+    "original_title": "Key & Peele - Fronthand Backhand",
+    "cleaned_title": "Fronthand Backhand",
+    "file_path": "audio_downloads/Key & Peele - Fronthand Backhand.mp3",
+    "video_url": "https://www.youtube.com/watch?v=iGAMbNKcN1U"
+  },
+  {
+    "original_title": "Key & Peele - I Said Bitch",
+    "cleaned_title": "I Said Bitch",
+    "file_path": "audio_downloads/Key & Peele - I Said Bitch.mp3",
+    "video_url": "https://www.youtube.com/watch?v=5LGEiIL1__s"
+  },
+  {
+    "original_title": "Key & Peele - Magician Cop",
+    "cleaned_title": "Magician Cop",
+    "file_path": "audio_downloads/Key & Peele - Magician Cop.mp3",
+    "video_url": "https://www.youtube.com/watch?v=52br8-y0ONU"
+  },
+  {
+    "original_title": "Key & Peele - Psycho Clown",
+    "cleaned_title": "Psycho Clown",
+    "file_path": "audio_downloads/Key & Peele - Psycho Clown.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Ngk3VX405GE"
+  },
+  {
+    "original_title": "Key & Peele - Weird Playlist",
+    "cleaned_title": "Weird Playlist",
+    "file_path": "audio_downloads/Key & Peele - Weird Playlist.mp3",
+    "video_url": "https://www.youtube.com/watch?v=hMQ2qGmJOVM"
+  },
+  {
+    "original_title": "Key & Peele - Fighting Meegan's Battles",
+    "cleaned_title": "Fighting Meegan's Battles",
+    "file_path": "audio_downloads/Key & Peele - Fighting Meegan's Battles.mp3",
+    "video_url": "https://www.youtube.com/watch?v=y3JOQqoCNjc"
+  },
+  {
+    "original_title": "French Restaurant - Key & Peele",
+    "cleaned_title": "French Restaurant",
+    "file_path": "audio_downloads/French Restaurant - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=vbBzXPQ4CFk"
+  },
+  {
+    "original_title": "Filling Jimenez’s Shoes - Key & Peele",
+    "cleaned_title": "Filling Jimenez’s Shoes",
+    "file_path": "audio_downloads/Filling Jimenez’s Shoes - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=NJQI1DSJMwg"
+  },
+  {
+    "original_title": "Key & Peele - Grown-Ass Man - Uncensored",
+    "cleaned_title": "GrownAss Man",
+    "file_path": "audio_downloads/Key & Peele - Grown-Ass Man - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=7ZpcZC1mBIk"
+  },
+  {
+    "original_title": "Key & Peele - Gideon's Kitchen",
+    "cleaned_title": "Gideon's Kitchen",
+    "file_path": "audio_downloads/Key & Peele - Gideon's Kitchen.mp3",
+    "video_url": "https://www.youtube.com/watch?v=oPpzJAzdpTU"
+  },
+  {
+    "original_title": "Key & Peele - Free Fro-Yo",
+    "cleaned_title": "Free FroYo",
+    "file_path": "audio_downloads/Key & Peele - Free Fro-Yo.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ZN2y2m4Eyyg"
+  },
+  {
+    "original_title": "Key & Peele - Who Thinks They Can Dance?",
+    "cleaned_title": "Who Thinks They Can Dance?",
+    "file_path": "audio_downloads/Key & Peele - Who Thinks They Can Dance?.mp3",
+    "video_url": "https://www.youtube.com/watch?v=JEzE3L-NKL4"
+  },
+  {
+    "original_title": "Key & Peele - Dad's Hollywood Secret",
+    "cleaned_title": "Dad's Hollywood Secret",
+    "file_path": "audio_downloads/Key & Peele - Dad's Hollywood Secret.mp3",
+    "video_url": "https://www.youtube.com/watch?v=oh7xwI_0huM"
+  },
+  {
+    "original_title": "Key & Peele - Consequences",
+    "cleaned_title": "Consequences",
+    "file_path": "audio_downloads/Key & Peele - Consequences.mp3",
+    "video_url": "https://www.youtube.com/watch?v=1dWjKkF0Zi4"
+  },
+  {
+    "original_title": "Key & Peele - Spoiler Alert (ft. Regina Hall)",
+    "cleaned_title": "Spoiler Alert (ft. Regina Hall)",
+    "file_path": "audio_downloads/Key & Peele - Spoiler Alert (ft. Regina Hall).mp3",
+    "video_url": "https://www.youtube.com/watch?v=VDEuS5wIk5Q"
+  },
+  {
+    "original_title": "Scat Duel - Key & Peele",
+    "cleaned_title": "Scat Duel",
+    "file_path": "audio_downloads/Scat Duel - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ywr4SzOFUYo"
+  },
+  {
+    "original_title": "Key & Peele - Marbles",
+    "cleaned_title": "Marbles",
+    "file_path": "audio_downloads/Key & Peele - Marbles.mp3",
+    "video_url": "https://www.youtube.com/watch?v=RG6EOci0suI"
+  },
+  {
+    "original_title": "Key & Peele - Nooice",
+    "cleaned_title": "Nooice",
+    "file_path": "audio_downloads/Key & Peele - Nooice.mp3",
+    "video_url": "https://www.youtube.com/watch?v=rQnYi3z56RE"
+  },
+  {
+    "original_title": "Key & Peele - Andre and Meegan's First Date  - Uncensored",
+    "cleaned_title": "Andre and Meegan's First Date",
+    "file_path": "audio_downloads/Key & Peele - Andre and Meegan's First Date  - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=qswjaM5yCro"
+  },
+  {
+    "original_title": "Boarding Order - Key & Peele",
+    "cleaned_title": "Boarding Order",
+    "file_path": "audio_downloads/Boarding Order - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=4LGe265pwvU"
+  },
+  {
+    "original_title": "Key & Peele - My Best Friend",
+    "cleaned_title": "My Best Friend",
+    "file_path": "audio_downloads/Key & Peele - My Best Friend.mp3",
+    "video_url": "https://www.youtube.com/watch?v=vvdMLE6Tmvc"
+  },
+  {
+    "original_title": "Key & Peele - Scat Duel (ft. Retta)",
+    "cleaned_title": "Scat Duel (ft. Retta)",
+    "file_path": "audio_downloads/Key & Peele - Scat Duel (ft. Retta).mp3",
+    "video_url": "https://www.youtube.com/watch?v=nx0-B-Ly4oQ"
+  },
+  {
+    "original_title": "Wendell - The Power of Wings - Key & Peele",
+    "cleaned_title": "Wendell The Power of Wings",
+    "file_path": "audio_downloads/Wendell - The Power of Wings - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=tW5FP5bhvGI"
+  },
+  {
+    "original_title": "Key & Peele - Old-Timers Talk Drake",
+    "cleaned_title": "OldTimers Talk Drake",
+    "file_path": "audio_downloads/Key & Peele - Old-Timers Talk Drake.mp3",
+    "video_url": "https://www.youtube.com/watch?v=HuPVymle_6U"
+  },
+  {
+    "original_title": "Key & Peele - LMFAO's Non-Stop Party",
+    "cleaned_title": "LMFAO's NonStop Party",
+    "file_path": "audio_downloads/Key & Peele - LMFAO's Non-Stop Party.mp3",
+    "video_url": "https://www.youtube.com/watch?v=PxWzsrj8bZE"
+  },
+  {
+    "original_title": "Key & Peele - TeachingCenter",
+    "cleaned_title": "TeachingCenter",
+    "file_path": "audio_downloads/Key & Peele - TeachingCenter.mp3",
+    "video_url": "https://www.youtube.com/watch?v=dkHqPFbxmOU"
+  },
+  {
+    "original_title": "Speaking After MLK Jr. - Key & Peele",
+    "cleaned_title": "Speaking After MLK Jr.",
+    "file_path": "audio_downloads/Speaking After MLK Jr. - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=qcbO5Mvoo6E"
+  },
+  {
+    "original_title": "Key & Peele - Airplane Continental",
+    "cleaned_title": "Airplane Continental",
+    "file_path": "audio_downloads/Key & Peele - Airplane Continental.mp3",
+    "video_url": "https://www.youtube.com/watch?v=1vkgnlwi9w8"
+  },
+  {
+    "original_title": "Key & Peele - Mr. Nostrand's Big Mistake",
+    "cleaned_title": "Mr. Nostrand's Big Mistake",
+    "file_path": "audio_downloads/Key & Peele - Mr. Nostrand's Big Mistake.mp3",
+    "video_url": "https://www.youtube.com/watch?v=18t5V3gvfa4"
+  },
+  {
+    "original_title": "Key & Peele - Roommate Meeting",
+    "cleaned_title": "Roommate Meeting",
+    "file_path": "audio_downloads/Key & Peele - Roommate Meeting.mp3",
+    "video_url": "https://www.youtube.com/watch?v=bxHEZU0AFcQ"
+  },
+  {
+    "original_title": "Key & Peele - Dubstep",
+    "cleaned_title": "Dubstep",
+    "file_path": "audio_downloads/Key & Peele - Dubstep.mp3",
+    "video_url": "https://www.youtube.com/watch?v=5Kod1q39ddE"
+  },
+  {
+    "original_title": "Key & Peele - Slow Brotion",
+    "cleaned_title": "Slow Brotion",
+    "file_path": "audio_downloads/Key & Peele - Slow Brotion.mp3",
+    "video_url": "https://www.youtube.com/watch?v=_uScCrpAW4U"
+  },
+  {
+    "original_title": "Key & Peele - Meegan and Andre Break Up",
+    "cleaned_title": "Meegan and Andre Break Up",
+    "file_path": "audio_downloads/Key & Peele - Meegan and Andre Break Up.mp3",
+    "video_url": "https://www.youtube.com/watch?v=qQi3_PpYzIM"
+  },
+  {
+    "original_title": "Key & Peele - Confederate Reenactors",
+    "cleaned_title": "Confederate Reenactors",
+    "file_path": "audio_downloads/Key & Peele - Confederate Reenactors.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ldMb_TZtq0c"
+  },
+  {
+    "original_title": "The Black Republicans Strike Again - Key & Peele",
+    "cleaned_title": "The Black Republicans Strike Again",
+    "file_path": "audio_downloads/The Black Republicans Strike Again - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=vkibw-9GrSg"
+  },
+  {
+    "original_title": "Key & Peele - Black Republicans",
+    "cleaned_title": "Black Republicans",
+    "file_path": "audio_downloads/Key & Peele - Black Republicans.mp3",
+    "video_url": "https://www.youtube.com/watch?v=G2tLyqfJd54"
+  },
+  {
+    "original_title": "Key & Peele - L.A. Vice",
+    "cleaned_title": "L.A. Vice",
+    "file_path": "audio_downloads/Key & Peele - L.A. Vice.mp3",
+    "video_url": "https://www.youtube.com/watch?v=_ycih6B6iqM"
+  },
+  {
+    "original_title": "Key & Peele - Menstruation Orientation - Uncensored",
+    "cleaned_title": "Menstruation Orientation",
+    "file_path": "audio_downloads/Key & Peele - Menstruation Orientation - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ihRHIGpyspA"
+  },
+  {
+    "original_title": "Key & Peele - White-Sounding Black Guys",
+    "cleaned_title": "WhiteSounding Black Guys",
+    "file_path": "audio_downloads/Key & Peele - White-Sounding Black Guys.mp3",
+    "video_url": "https://www.youtube.com/watch?v=kO-EwelnvxU"
+  },
+  {
+    "original_title": "Bar Mitzvah Motivational Dancers - Key & Peele",
+    "cleaned_title": "Bar Mitzvah Motivational Dancers",
+    "file_path": "audio_downloads/Bar Mitzvah Motivational Dancers - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=E0ijTPri5us"
+  },
+  {
+    "original_title": "Key & Peele - Cute Puppies",
+    "cleaned_title": "Cute Puppies",
+    "file_path": "audio_downloads/Key & Peele - Cute Puppies.mp3",
+    "video_url": "https://www.youtube.com/watch?v=z6iC0Vi1yEg"
+  },
+  {
+    "original_title": "Key & Peele - Basketball Commentary",
+    "cleaned_title": "Basketball Commentary",
+    "file_path": "audio_downloads/Key & Peele - Basketball Commentary.mp3",
+    "video_url": "https://www.youtube.com/watch?v=3d053pPV_AA"
+  },
+  {
+    "original_title": "Key & Peele: Competition in the Work Place",
+    "cleaned_title": ": Competition in the Work Place",
+    "file_path": "audio_downloads/Key & Peele: Competition in the Work Place.mp3",
+    "video_url": "https://www.youtube.com/watch?v=vQRo-ahZrAQ"
+  },
+  {
+    "original_title": "Key & Peele - Shining",
+    "cleaned_title": "Shining",
+    "file_path": "audio_downloads/Key & Peele - Shining.mp3",
+    "video_url": "https://www.youtube.com/watch?v=CTuts6Ns_SU"
+  },
+  {
+    "original_title": "Key & Peele - Apologies",
+    "cleaned_title": "Apologies",
+    "file_path": "audio_downloads/Key & Peele - Apologies.mp3",
+    "video_url": "https://www.youtube.com/watch?v=nobNUsKf21M"
+  },
+  {
+    "original_title": "Key & Peele - Non-Scary Movie",
+    "cleaned_title": "NonScary Movie",
+    "file_path": "audio_downloads/Key & Peele - Non-Scary Movie.mp3",
+    "video_url": "https://www.youtube.com/watch?v=Ie4oeMp12CA"
+  },
+  {
+    "original_title": "Key & Peele - Someone's Gotta Say It - Uncensored",
+    "cleaned_title": "Someone's Gotta Say It",
+    "file_path": "audio_downloads/Key & Peele - Someone's Gotta Say It - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ccTy5Z4WaB4"
+  },
+  {
+    "original_title": "Ultimate Fighting Goes to the Next Level - Key & Peele",
+    "cleaned_title": "Ultimate Fighting Goes to the Next Level",
+    "file_path": "audio_downloads/Ultimate Fighting Goes to the Next Level - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=0z-oJTZ1b5Q"
+  },
+  {
+    "original_title": "Key & Peele - Fútbol Flop",
+    "cleaned_title": "Fútbol Flop",
+    "file_path": "audio_downloads/Key & Peele - Fútbol Flop.mp3",
+    "video_url": "https://www.youtube.com/watch?v=07mBfR8erMY"
+  },
+  {
+    "original_title": "Key & Peele - Movie Hecklers",
+    "cleaned_title": "Movie Hecklers",
+    "file_path": "audio_downloads/Key & Peele - Movie Hecklers.mp3",
+    "video_url": "https://www.youtube.com/watch?v=ntfProwNYkE"
+  },
+  {
+    "original_title": "Key & Peele - Let Me Hit That",
+    "cleaned_title": "Let Me Hit That",
+    "file_path": "audio_downloads/Key & Peele - Let Me Hit That.mp3",
+    "video_url": "https://www.youtube.com/watch?v=gbUKg_kd44s"
+  },
+  {
+    "original_title": "Key & Peele - Hold Me Back - Uncensored",
+    "cleaned_title": "Hold Me Back",
+    "file_path": "audio_downloads/Key & Peele - Hold Me Back - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=e1KEC_3vygc"
+  },
+  {
+    "original_title": "Key & Peele - Pre-Game Pump-Up",
+    "cleaned_title": "PreGame PumpUp",
+    "file_path": "audio_downloads/Key & Peele - Pre-Game Pump-Up.mp3",
+    "video_url": "https://www.youtube.com/watch?v=URklD1ipsoo"
+  },
+  {
+    "original_title": "Key & Peele - Mr. T PSA",
+    "cleaned_title": "Mr. T PSA",
+    "file_path": "audio_downloads/Key & Peele - Mr. T PSA.mp3",
+    "video_url": "https://www.youtube.com/watch?v=1g-s-pghtYQ"
+  },
+  {
+    "original_title": "Key & Peele - Judge Jessie",
+    "cleaned_title": "Judge Jessie",
+    "file_path": "audio_downloads/Key & Peele - Judge Jessie.mp3",
+    "video_url": "https://www.youtube.com/watch?v=RqUSjeoO91c"
+  },
+  {
+    "original_title": "You Can't Eat Marbles - Key & Peele",
+    "cleaned_title": "You Can't Eat Marbles",
+    "file_path": "audio_downloads/You Can't Eat Marbles - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=3zBzsj5PfTY"
+  },
+  {
+    "original_title": "The Hollywood Sequel Doctor Tackles \"Gremlins 2\" - Key & Peele",
+    "cleaned_title": "The Hollywood Sequel Doctor Tackles \"Gremlins 2\"",
+    "file_path": "audio_downloads/The Hollywood Sequel Doctor Tackles \"Gremlins 2\" - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=wHtH_SHhc6E"
+  },
+  {
+    "original_title": "Biracial Dating Is Complicated - Key & Peele",
+    "cleaned_title": "Biracial Dating Is Complicated",
+    "file_path": "audio_downloads/Biracial Dating Is Complicated - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=PhjoC0jghHo"
+  },
+  {
+    "original_title": "Key and Peele: Can You Be Too Nice at the Office? | The New York Times",
+    "cleaned_title": "Key and Peele: Can You Be Too Nice at the Office? | The New York Times",
+    "file_path": "audio_downloads/Key and Peele: Can You Be Too Nice at the Office? | The New York Times.mp3",
+    "video_url": "https://www.youtube.com/watch?v=c6V_zUGVlTk"
+  },
+  {
+    "original_title": "Hold Me Back - Key & Peele",
+    "cleaned_title": "Hold Me Back",
+    "file_path": "audio_downloads/Hold Me Back - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=4ds0ewPpu7U"
+  },
+  {
+    "original_title": "Key & Peele - Quarterback Concussion",
+    "cleaned_title": "Quarterback Concussion",
+    "file_path": "audio_downloads/Key & Peele - Quarterback Concussion.mp3",
+    "video_url": "https://www.youtube.com/watch?v=cJ4tlOIo4A8"
+  },
+  {
+    "original_title": "Key & Peele - \"Family Matters\" - Uncensored",
+    "cleaned_title": "\"Family Matters\"",
+    "file_path": "audio_downloads/Key & Peele - \"Family Matters\" - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=A5Zdp1RfoyI"
+  },
+  {
+    "original_title": "Key & Peele - The Morty Jebsen Show Goes Off the Rails - Uncensored",
+    "cleaned_title": "The Morty Jebsen Show Goes Off the Rails",
+    "file_path": "audio_downloads/Key & Peele - The Morty Jebsen Show Goes Off the Rails - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=BaNIlk2J_eI"
+  },
+  {
+    "original_title": "Key & Peele - Biracial Penis",
+    "cleaned_title": "Biracial Penis",
+    "file_path": "audio_downloads/Key & Peele - Biracial Penis.mp3",
+    "video_url": "https://www.youtube.com/watch?v=klSM0AwjXJs"
+  },
+  {
+    "original_title": "Key & Peele - Aerobics Meltdown - Uncensored",
+    "cleaned_title": "Aerobics Meltdown",
+    "file_path": "audio_downloads/Key & Peele - Aerobics Meltdown - Uncensored.mp3",
+    "video_url": "https://www.youtube.com/watch?v=4k-Dd71CqnM"
+  },
+  {
+    "original_title": "Someone’s Gotta Say It - Key & Peele",
+    "cleaned_title": "Someone’s Gotta Say It",
+    "file_path": "audio_downloads/Someone’s Gotta Say It - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=WTLcsaRXpVw"
+  },
+  {
+    "original_title": "What About Iron Man, Though? - Key & Peele",
+    "cleaned_title": "What About Iron Man, Though?",
+    "file_path": "audio_downloads/What About Iron Man, Though? - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=UnUq2AQww8U"
+  },
+  {
+    "original_title": "If Names Were Farts - Key & Peele",
+    "cleaned_title": "If Names Were Farts",
+    "file_path": "audio_downloads/If Names Were Farts - Key & Peele.mp3",
+    "video_url": "https://www.youtube.com/watch?v=i54TF13kBZk"
+  }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Key and Peele Guesser</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+  <link rel="stylesheet" href="interface.css">
+
+</head>
+<body>
+  <h1>Key and Peele Guesser</h1>
+  <p>Click "Play Audio" to play a random clip for the current increment duration.</p>
+  <p>Click "Increment Duration" to increase the playback duration.</p>
+  <button id="play-button">Play Audio</button>
+  <button id="increment-button">Increment Duration</button>
+  <div class="label">Current Duration: <span id="current-duration">1</span> seconds</div>
+  <div id="progress-bar-container">
+    <div id="progress-bar"></div>
+  </div>
+  <div id="waveform-container">
+    <canvas id="waveform-canvas"></canvas>
+  </div>
+  <audio id="audio-player" style="display: none;"></audio>
+
+  <div id="dropdown-container">
+    <label for="title-dropdown">Select or Search for a Title:</label>
+    <select id="title-dropdown" placeholder="Type to search...">
+        <option value="" disabled selected>Choose a title</option>
+    </select>
+  </div>
+  <button id="submit-button">Submit</button>
+  <div id="result"></div>
+
+  <div id="overlay"></div>
+  <div id="popup">
+    <p id="popup-message"></p>
+    <button id="new-game-popup">Close</button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+  <script src="interface.js"></script>
+</body>
+</html>
